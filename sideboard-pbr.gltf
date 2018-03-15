@@ -6,10 +6,10 @@
             "componentType": 5123,
             "count": 6,
             "max": [
-                42
+                30
             ],
             "min": [
-                8
+                4
             ],
             "name": "accessor_buffer_Plane_2",
             "type": "SCALAR"
@@ -20,14 +20,14 @@
             "componentType": 5126,
             "count": 44,
             "max": [
-                0.0,
+                9.03839059152034e-10,
                 0.0,
                 1.0
             ],
             "min": [
-                -1.9753649826981245e-09,
+                -2.0576722548071302e-09,
                 -1.0,
-                -0.7854606509208679
+                -0.7854609489440918
             ],
             "name": "accessor_buffer_Plane_NORMAL_0",
             "type": "VEC3"
@@ -38,7 +38,7 @@
             "componentType": 5123,
             "count": 37740,
             "max": [
-                23795
+                23285
             ],
             "min": [
                 0
@@ -66,7 +66,7 @@
             "bufferView": 7,
             "byteOffset": 0,
             "componentType": 5126,
-            "count": 23796,
+            "count": 23286,
             "max": [
                 1.0,
                 1.0,
@@ -84,16 +84,16 @@
             "bufferView": 6,
             "byteOffset": 0,
             "componentType": 5126,
-            "count": 23796,
+            "count": 23286,
             "max": [
-                0.8000000715255737,
-                0.24999995529651642,
-                0.779999852180481
+                0.1599999964237213,
+                0.04999999329447746,
+                0.15599995851516724
             ],
             "min": [
-                -0.8000000715255737,
-                -0.2499999701976776,
-                -2.9802322387695312e-08
+                -0.1599999964237213,
+                -0.05099999159574509,
+                -5.960464122267695e-09
             ],
             "name": "accessor_buffer_Cube.001_POSITION_0",
             "type": "VEC3"
@@ -116,7 +116,7 @@
             "bufferView": 8,
             "byteOffset": 0,
             "componentType": 5126,
-            "count": 23796,
+            "count": 23286,
             "max": [
                 0.7830682992935181,
                 0.6892960667610168
@@ -134,7 +134,7 @@
             "componentType": 5123,
             "count": 6,
             "max": [
-                35
+                42
             ],
             "min": [
                 17
@@ -148,13 +148,13 @@
             "componentType": 5126,
             "count": 44,
             "max": [
-                2.0,
-                0.25,
-                2.5
+                0.3999999761581421,
+                0.04999999701976776,
+                0.4999999701976776
             ],
             "min": [
-                -2.0,
-                -1.75,
+                -0.3999999761581421,
+                -0.34999996423721313,
                 0.0
             ],
             "name": "accessor_buffer_Plane_POSITION_0",
@@ -212,7 +212,7 @@
         },
         {
             "buffer": 0,
-            "byteLength": 285552,
+            "byteLength": 279432,
             "byteOffset": 1552,
             "byteStride": 12,
             "name": "bufferView_buffer_Cube.001_POSITION_0",
@@ -220,16 +220,16 @@
         },
         {
             "buffer": 0,
-            "byteLength": 285552,
-            "byteOffset": 287104,
+            "byteLength": 279432,
+            "byteOffset": 280984,
             "byteStride": 12,
             "name": "bufferView_buffer_Cube.001_NORMAL_0",
             "target": 34962
         },
         {
             "buffer": 0,
-            "byteLength": 190368,
-            "byteOffset": 572656,
+            "byteLength": 186288,
+            "byteOffset": 560416,
             "byteStride": 8,
             "name": "bufferView_buffer_Cube.001_TEXCOORD_0_0",
             "target": 34962
@@ -237,14 +237,14 @@
         {
             "buffer": 0,
             "byteLength": 75484,
-            "byteOffset": 763024,
+            "byteOffset": 746704,
             "name": "bufferView_buffer_Cube.001_0",
             "target": 34963
         }
     ],
     "buffers": [
         {
-            "byteLength": 838508,
+            "byteLength": 822188,
             "name": "buffer_sideboard-pbr",
             "uri": "buffer_sideboard-pbr.bin"
         }
@@ -386,9 +386,9 @@
                 1.0
             ],
             "scale": [
-                0.19999998807907104,
-                0.19999998807907104,
-                0.19999998807907104
+                1.0,
+                1.0,
+                1.0
             ],
             "translation": [
                 0.0,
@@ -406,9 +406,9 @@
                 1.0
             ],
             "scale": [
-                0.19999998807907104,
-                0.19999998807907104,
-                0.19999998807907104
+                1.0,
+                1.0,
+                1.0
             ],
             "translation": [
                 0.0,
